@@ -19,8 +19,4 @@
     <ProjectReference Include="..\FlashcardsApp.Core\FlashcardsApp.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
